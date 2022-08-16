@@ -2,4 +2,4 @@
 #tester
 # Learning Git / Gitbash / Github
 
-# palying around with pushing and pulling
+# playying around with pushing and pulling
